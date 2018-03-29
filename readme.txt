@@ -1,4 +1,4 @@
-Basic Processing:
+basicProcessing.py:
 Menu
 'i' - Reload the original image
 'w' - Save the current image into file out.jpg
@@ -14,8 +14,12 @@ Menu
 'm' - Show the magnitude of the gradient normalized to the range [0,255]
 'p' - Plot the gradient vectors of image every N pixels in length k after grayscale conversion
 'r' - Rotate by some angle after grayscale conversion
-----------------------------------------------------------------------------------------------
-Corner detection and matching:
+
+
+
+
+
+Corner Detection and Matching.py
 
 Load and display two images containing similar content. In each image perform: 
 - Image gradient and apply Harris corner detection algorithm 
