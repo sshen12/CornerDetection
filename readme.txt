@@ -1,4 +1,7 @@
+Readme
+
 basicProcessing.py:
+
 Menu
 'i' - Reload the original image
 'w' - Save the current image into file out.jpg
